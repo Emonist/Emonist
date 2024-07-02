@@ -14,8 +14,8 @@
 - Tally Prime
 
 ### 👯 My Interests
-- Ai & ChatGpt
-- Machice Learning related stuff
+- Ai 
+- ChatGpt
 
 ### ⚡ My Other Works:
 
