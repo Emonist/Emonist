@@ -1,7 +1,7 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=Pennywise&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="Pennywise" /> </p>
 
-<h1 align="center">Hi 👋, I'm Pratik Garai</h1>
-<h3 align="center">CSE Student, VIT Chennai</h3>
+<h1 align="center">Hi 👋, I'm Emonist</h1>
+<h3 align="center">Py Student, VIT Assam</h3>
 <br><br>
 
 <p align="center">
@@ -16,12 +16,6 @@
 ### 👯 I’m looking to collaborate on
 - Web Developmet
 - Machice Learning related stuff
-
-### 📫 Related :
-- LinkedIN : https://www.linkedin.com/in/pratik-garai-bab1a4191/
-- HackerRank : https://www.hackerrank.com/Pennywise0208
-- Kaggle : https://www.kaggle.com/Pennywise
-- Leetcode : https://leetcode.com/Pennywise0208/
 
 ### ⚡ My Other Works:
 
