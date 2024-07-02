@@ -27,7 +27,7 @@
 ### 🔭 My Social Media ...
 <p align="left">
   <a href="https://instagram.com/emonistt" target="_blank" style="display: flex; align-items: center;">
-    <img src="#" alt="Instagram" width="20" height="20" style="transform: translateY(2px);"/> 
+    <img src="" alt="" width="20" height="20" style="transform: translateY(2px);"/> 
     <span style="margin-left: 5px;">@Emonistt</span>
   </a>
 </p>
