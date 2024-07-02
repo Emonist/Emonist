@@ -28,8 +28,8 @@
 ### 🔭 My Social Media ...
 <p align="left">
   <a href="https://instagram.com/emonistt" target="_blank">
-    <img src="https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA1L3JtNTMzLW5lb24tMDAzLmpwZw.jpg" alt="Instagram" width="20" height="20"/> 
-  @Emonistt
+    <img src="https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA1L3JtNTMzLW5lb24tMDAzLmpwZw.jpg" alt="Instagram" width="40" height="40"/> 
+      @Emonistt
 </a>
 
 </p>
