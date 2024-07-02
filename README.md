@@ -1,6 +1,6 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=Pennywise&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="Pennywise" /> </p>
 
-<h1 align="center">Hi 👋, I'm Emonist</h1>
+<h1 align="center">Hi, I'm Emonist aka Om</h1>
 <h3 align="center">Py Student, VIT Assam</h3>
 <br><br>
 
