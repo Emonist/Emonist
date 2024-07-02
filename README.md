@@ -13,15 +13,14 @@
 - Stock Market And Trade
 - Tally Prime
 
-### 👯 I’m looking to collaborate on
+### 👯 My Interests
 - Ai & ChatGpt
 - Machice Learning related stuff
 
 ### ⚡ My Other Works:
 
 <p align="left">
-  <a href="https://github.com/Doc-Search" target="_blank"> <img src="https://avatars.githubusercontent.com/u/100062776" alt="Doc Search" width="40" height="40"/> </a>
-  <a href="https://github.com/5-bits" target="_blank"> <img src="https://avatars.githubusercontent.com/u/78092212" alt="5-bits" width="40" height="40"/> </a>
+  <a href="https://github.com/TheRealPennywise" target="_blank"> <img src="https://i.redd.it/tswry4vw56z91.png" alt="Doc Search" width="40" height="40"/> </a>
 </p>
 
 
