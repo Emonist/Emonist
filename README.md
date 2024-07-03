@@ -2,12 +2,10 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hi,+Iam+Emonist;A+Dpy+Developer;An+Accountant&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi,+Iam+Emonist;A+Discord.py+Developer;An+Accountant&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
 </p>
 
 
-<h1 align="center">Hi, I'm Emonist aka Om</h1>
-<h3 align="center">Accountant, Dpy Dev</></h3>
 <br><br>
 
 <p align="center">
