@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Baskervville+SC&pause=1000&color=4735FF&background=186FFF00&random=false&width=435&lines=The+five+boxing+wizards+jump+quickly" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Baskervville+SC&pause=1000&color=4735FF&background=186FFF00&random=false&width=435&lines=Hi%2C+I'm+Emonist+%F0%9F%91%8B;A+Discord.py+Developer+%3C%2F%3E" alt="Typing SVG" /></a>
 </p>
 
 
