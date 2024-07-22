@@ -23,13 +23,6 @@
 - Ai 
 - ChatGpt
 
-### ⚡ My Other Works:
-
-<p align="left">
-  <a href="https://github.com/TheRealPennywise" target="_blank"> <img src="https://i.redd.it/tswry4vw56z91.png" alt="Doc Search" width="40" height="40"/> </a>
-</p>
-
-
 ### 🔭 My Social Media ...
 <p align="left">
   <a href="https://instagram.com/emonistt" target="_blank" style="display: flex; align-items: center;">
@@ -49,3 +42,11 @@
     <td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Pennywise&theme=blue-green" alt="Pennywise" /></td>
    </tr>
 </table>
+
+<div align="center">
+  <h2>🐍 My Contributions</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
