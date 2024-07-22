@@ -1,6 +1,6 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=Pennywise&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="Pennywise" /> </p>
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
 
 <p align="center">
