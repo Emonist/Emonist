@@ -23,11 +23,13 @@
   <h2>👯 My Interests</h2>
   <br/>
   <div style="text-align: center;">
-    <a href="-Ai">-Ai</a>
-    <a href="Chat Gpt">Chat Gpt</a>
+    -Ai
+    <br/>
+    -Chat Gpt
   </div>
   <br/>
 </div>
+
 
 
 <div align="center">
