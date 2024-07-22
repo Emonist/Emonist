@@ -19,15 +19,16 @@
 - Stock Market And Trade
 - Tally Prime
 
-<div align="center">
-<h2>👯 My Interests</h2>
-<br/>
-
-<div align="center">
-  <a href="">AI</a>
-  <a href="">ChatGPT</a>
+<div style="text-align: center;">
+  <h2>👯 My Interests</h2>
+  <br/>
+  <div style="text-align: center;">
+    <a href="-Ai">-Ai</a>
+    <a href="Chat Gpt">Chat Gpt</a>
+  </div>
+  <br/>
 </div>
-<br/>
+
 
 <div align="center">
   <h2>🐍 My Contributions</h2>
