@@ -19,19 +19,14 @@
 - Stock Market And Trade
 - Tally Prime
 
-### 👯 My Interests
-- Ai 
-- ChatGpt
-
 <div align="center">
   <h2>👯 My Interests</h2>
-  <p align="left">
-    <a href="https://instagram.com/emonistt" target="_blank" style="display: flex; align-items: center;">
-      <img src="https://i.pinimg.com/736x/17/76/0a/17760a6daad2edf7f4d9b837b5437246.jpg" alt="" width="20" height="20" style="transform: translateY(2px);"/> 
-      <span style="margin-left: 5px;">@Emonistt</span>
-    </a>
-  </p>
-</div>
+  <br/>
+  <div align="center">
+    <a href="-Ai">
+    <a href="Chat Gpt">
+  </div>
+  <br/>
 
 <div align="center">
   <h2>🐍 My Contributions</h2>
