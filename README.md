@@ -32,9 +32,9 @@
   <h2>👯 My Interests</h2>
   <br/>
   <div style="text-align: center;">
-    -Ai
+    - Ai
     <br/>
-    -Chat Gpt
+    - Chat Gpt
   </div>
   <br/>
 </div>
@@ -42,7 +42,6 @@
 
 
 <div style="text-align: center;">
-  <h2>🐍 My Contributions</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
   
