@@ -1,5 +1,7 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=Pennywise&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="Pennywise" /> </p>
- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=page.id)
+
+<p align="right"> <img src="[https://visitor-badge.laobi.icu/badge?page_id=page.id" alt="Pennywisepp" /> </p>
+
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=PlayFair+Display&duration=4000&pause=250&color=FFFFFF&background=186FFF00&random=false&width=435&lines=Hi%2C+I'm+Emonist+%F0%9F%91%8B;A+Discord.py+Developer+%3C%2F%3E;An+Accountant+%F0%9F%8F%A2" alt="Typing SVG" /></a>
