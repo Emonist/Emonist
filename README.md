@@ -20,13 +20,13 @@
 - Tally Prime
 
 <div align="center">
-  <h2>👯 My Interests</h2>
-  <br/>
-  <div align="center">
-    <a href="-Ai">
-    <a href="Chat Gpt">
-  </div>
-  <br/>
+<h2>👯 My Interests</h2>
+<br/>
+<div align="center">
+  <img src="https://www.example.com/ai-icon.png" alt="AI Icon" width="32" height="32">
+  <img src="https://www.example.com/chatgpt-icon.png" alt="ChatGPT Icon" width="32" height="32">
+</div>
+<br/>
 
 <div align="center">
   <h2>🐍 My Contributions</h2>
