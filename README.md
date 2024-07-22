@@ -14,10 +14,19 @@
   <img alt="GIF" src="https://github.com/TheRealPennywise/Profile/blob/Profile/code.gif" width="500px"/>
 </p>
 
-### 🌱 I’m currently learning
-- Artificial Intelligence and Machine Learning
-- Stock Market And Trade
-- Tally Prime
+
+<div style="text-align: center;">
+  <h2>🌱 I’m currently learning</h2>
+  <br/>
+  <div style="text-align: center;">
+    - Artificial Intelligence and Machine Learning
+    <br/>
+    - Stock Market And Trade
+    <br/>
+    - Tally Prime
+  </div>
+  <br/>
+</div>
 
 <div style="text-align: center;">
   <h2>👯 My Interests</h2>
