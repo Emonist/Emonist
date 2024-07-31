@@ -1,11 +1,9 @@
-[![Discord Presence](https://lanyard.cnrad.dev/api/1094102183399669821?idleMessage=Hello+,+I'm+A+Developer+,+Accountant+,+Investor&hideActivity=whenNotUsed&showDisplayName=true&hideBadges=false)](https://discord.com/users/1094102183399669821)
-
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=Pennywise&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="Pennywise" /> </p>
 
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
 <p align="center">
-  <a href="[https://git.io/typing-svg](https://discord.com/users/1094102183399669821)"><img src="https://lanyard.cnrad.dev/api/1094102183399669821?idleMessage=Hello+,+I'm+A+Developer+,+Accountant+,+Investor&hideActivity=whenNotUsed&showDisplayName=true&hideBadges=false" alt="Typing SVG" /></a>
+  <a href="[https://git.io/typing-svg](https://discord.com/users/1094102183399669821)"><img src="https://lanyard.cnrad.dev/api/1094102183399669821?idleMessage=Hello+,+I'm+A+Developer+,+Accountant+,+Investor&hideActivity=true&showDisplayName=true&hideBadges=false" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
