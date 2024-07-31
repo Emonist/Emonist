@@ -5,11 +5,11 @@
 <p align="center">
   <a href="[https://git.io/typing-svg](https://discord.com/users/1094102183399669821)"><img src="https://lanyard.cnrad.dev/api/1094102183399669821?idleMessage=Hello+,+I'm+A+Developer+,+Accountant+,+Investor&showDisplayName=true&hideBadges=false" alt="Typing SVG" /></a>
 </p>
-<!-- This is a comment. It will not be displayed in the browser. -->
+
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=PlayFair+Display&duration=4000&pause=250&color=FFFFFF&background=186FFF00&random=false&width=435&lines=Hi%2C+I'm+Emonist+%F0%9F%91%8B;A+Discord.py+Developer+%3C%2F%3E;An+Accountant+%F0%9F%8F%A2" alt="Typing SVG" /></a>
+  <!-- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=PlayFair+Display&duration=4000&pause=250&color=FFFFFF&background=186FFF00&random=false&width=435&lines=Hi%2C+I'm+Emonist+%F0%9F%91%8B;A+Discord.py+Developer+%3C%2F%3E;An+Accountant+%F0%9F%8F%A2" alt="Typing SVG" /></a> -->
 </p>
-<!-- End of the comment -->
+
 
 <br><br>
 
