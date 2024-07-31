@@ -14,7 +14,7 @@
 <br><br>
 
 <p align="center">
-  <img alt="GIF" src="https://github.com/TheRealPennywise/Profile/blob/Profile/code.gif" width="500px"/>
+  <!-- <img alt="GIF" src="https://github.com/TheRealPennywise/Profile/blob/Profile/code.gif" width="500px"/> -->
 </p>
 
 <div style="text-align: center;">
