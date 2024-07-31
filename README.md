@@ -1,3 +1,5 @@
+[![Discord Presence](https://lanyard.cnrad.dev/api/1094102183399669821)](https://discord.com/users/1094102183399669821)
+
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=Pennywise&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="Pennywise" /> </p>
 
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
@@ -13,8 +15,6 @@
 <p align="center">
   <img alt="GIF" src="https://github.com/TheRealPennywise/Profile/blob/Profile/code.gif" width="500px"/>
 </p>
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/1094102183399669821)](https://discord.com/users/1094102183399669821)
 
 <div style="text-align: center;">
   <h2>🌱 I’m currently learning</h2>
