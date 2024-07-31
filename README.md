@@ -14,6 +14,7 @@
   <img alt="GIF" src="https://github.com/TheRealPennywise/Profile/blob/Profile/code.gif" width="500px"/>
 </p>
 
+[![Discord Presence](https://lanyard.cnrad.dev/api/1094102183399669821)](https://discord.com/users/1094102183399669821)
 
 <div style="text-align: center;">
   <h2>🌱 I’m currently learning</h2>
