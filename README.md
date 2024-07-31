@@ -1,4 +1,4 @@
-[![Discord Presence](https://lanyard.cnrad.dev/api/1094102183399669821?idleMessage=Hello+,+I'm+A+Developer+,+Accountant+,+Investor&animated=true&hideActivity=false)](https://discord.com/users/1094102183399669821)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1094102183399669821?idleMessage=Hello+,+I'm+A+Developer+,+Accountant+,+Investor&animated=True&hideActivity=false)](https://discord.com/users/1094102183399669821)
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=Pennywise&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="Pennywise" /> </p>
 
